@@ -13,3 +13,5 @@
 
 
 The purpose of this project is to showcase SQL and data visualisation skills via Tableau.
+
+I have chosen a marketing analytics project, as it is my preferred industry, and performed a RFM analysis to identify existing customers who are most likely to respond to a new offer.
